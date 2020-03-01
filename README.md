@@ -2,4 +2,4 @@
 A repo for documenting how I teach coding
 
 ## Lessons
-[Day 1](./03_02_20.md)
+[Day 1](./03_01_20.md)
